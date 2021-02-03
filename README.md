@@ -1,4 +1,4 @@
-# Django Twitter Clone by Redian Marku
+# Django Twitter Clone by Francis Gacheru
 
 Fully functional Django App that looks ecxatly like real Twitter.
 
@@ -7,7 +7,7 @@ Demo Image:
 
 ## Setup
 
-1. Git Clone the project with: ```git clone https://github.com/redianmarku/Django-Twitter-Clone.git```.
+1. Git Clone the project with: ```git clone https://github.com/FGacheru/Twitter-clone.git```.
 
 2. Move to the base directory: ```cd Django-Twitter-Clone```
 
